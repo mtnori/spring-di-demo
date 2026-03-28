@@ -1,6 +1,6 @@
 package com.example.app1
 
-import com.example.common.SampleRepository
+import com.example.logic.SampleRepository
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.context.annotation.Primary

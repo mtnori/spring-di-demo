@@ -1,4 +1,4 @@
-package com.example.common
+package com.example.logic
 
 import org.springframework.boot.autoconfigure.AutoConfiguration
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean

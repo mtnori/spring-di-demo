@@ -1,6 +1,6 @@
 package com.example.app1
 
-import com.example.common.SampleService
+import com.example.logic.SampleService
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

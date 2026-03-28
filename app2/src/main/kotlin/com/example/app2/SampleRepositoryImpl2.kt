@@ -1,6 +1,6 @@
 package com.example.app2
 
-import com.example.common.SampleRepository
+import com.example.logic.SampleRepository
 import org.springframework.stereotype.Repository
 
 @Repository
